@@ -1,0 +1,66 @@
+C:\Users\carre\AppData\Local\Temporary Projects\MIDTERMEXAM\bin\Debug\MIDTERMEXAM.exe
+C:\Users\carre\AppData\Local\Temporary Projects\MIDTERMEXAM\bin\Debug\MIDTERMEXAM.pdb
+C:\Users\carre\AppData\Local\Temporary Projects\MIDTERMEXAM\bin\Debug\MIDTERMEXAM.xml
+C:\Users\carre\AppData\Local\Temporary Projects\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.frmSelect.resources
+C:\Users\carre\AppData\Local\Temporary Projects\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.Resources.resources
+C:\Users\carre\AppData\Local\Temporary Projects\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.vbproj.GenerateResource.Cache
+C:\Users\carre\AppData\Local\Temporary Projects\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.exe
+C:\Users\carre\AppData\Local\Temporary Projects\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.xml
+C:\Users\carre\AppData\Local\Temporary Projects\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.pdb
+C:\Users\carre\AppData\Local\Temporary Projects\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.frmAddCustomer.resources
+C:\Users\carre\AppData\Local\Temporary Projects\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.frmCash.resources
+C:\Users\carre\AppData\Local\Temporary Projects\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.frmInstallment.resources
+C:\Users\carre\OneDrive\Documents\Visual Studio 2010\Projects\prelim\HRMProject\MIDTERM\MIDTERMEXAM\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.exe
+C:\Users\carre\OneDrive\Documents\Visual Studio 2010\Projects\prelim\HRMProject\MIDTERM\MIDTERMEXAM\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.xml
+C:\Users\carre\OneDrive\Documents\Visual Studio 2010\Projects\prelim\HRMProject\MIDTERM\MIDTERMEXAM\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.pdb
+C:\Users\carre\OneDrive\Documents\Visual Studio 2010\Projects\prelim\HRMProject\MIDTERM\MIDTERMEXAM\MIDTERMEXAM\bin\Debug\MIDTERMEXAM.exe
+C:\Users\carre\OneDrive\Documents\Visual Studio 2010\Projects\prelim\HRMProject\MIDTERM\MIDTERMEXAM\MIDTERMEXAM\bin\Debug\MIDTERMEXAM.pdb
+C:\Users\carre\OneDrive\Documents\Visual Studio 2010\Projects\prelim\HRMProject\MIDTERM\MIDTERMEXAM\MIDTERMEXAM\bin\Debug\MIDTERMEXAM.xml
+C:\Users\carre\OneDrive\Documents\Visual Studio 2010\Projects\prelim\HRMProject\MIDTERM\MIDTERMEXAM\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.vbprojResolveAssemblyReference.cache
+C:\Users\carre\OneDrive\Documents\Visual Studio 2010\Projects\prelim\HRMProject\MIDTERM\MIDTERMEXAM\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.frmAddCustomer.resources
+C:\Users\carre\OneDrive\Documents\Visual Studio 2010\Projects\prelim\HRMProject\MIDTERM\MIDTERMEXAM\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.frmCash.resources
+C:\Users\carre\OneDrive\Documents\Visual Studio 2010\Projects\prelim\HRMProject\MIDTERM\MIDTERMEXAM\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.frmInstallment.resources
+C:\Users\carre\OneDrive\Documents\Visual Studio 2010\Projects\prelim\HRMProject\MIDTERM\MIDTERMEXAM\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.frmSelect.resources
+C:\Users\carre\OneDrive\Documents\Visual Studio 2010\Projects\prelim\HRMProject\MIDTERM\MIDTERMEXAM\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.Resources.resources
+C:\Users\carre\OneDrive\Documents\Visual Studio 2010\Projects\prelim\HRMProject\MIDTERM\MIDTERMEXAM\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.vbproj.GenerateResource.Cache
+C:\Users\carre\OneDrive\Documents\Visual Studio 2010\Projects\prelim\HRMProject\MIDTERM\MIDTERMEXAM\MIDTERMEXAM\bin\Debug\MIDTERMEXAM.exe.manifest
+C:\Users\carre\OneDrive\Documents\Visual Studio 2010\Projects\prelim\HRMProject\MIDTERM\MIDTERMEXAM\MIDTERMEXAM\bin\Debug\MIDTERMEXAM.application
+C:\Users\carre\OneDrive\Documents\Visual Studio 2010\Projects\prelim\HRMProject\MIDTERM\MIDTERMEXAM\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.exe.manifest
+C:\Users\carre\OneDrive\Documents\Visual Studio 2010\Projects\prelim\HRMProject\MIDTERM\MIDTERMEXAM\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.application
+C:\Users\carre\OneDrive\Documents\Visual Studio 2010\Projects\prelim\HRMProject\MIDTERM\MIDTERMEXAM\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.frmItem.resources
+C:\Users\USER\OneDrive\Documents\문서\Visual Studio 2010\Projects\MIDTERMEXAM\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.exe
+C:\Users\USER\OneDrive\Documents\문서\Visual Studio 2010\Projects\MIDTERMEXAM\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.xml
+C:\Users\USER\OneDrive\Documents\문서\Visual Studio 2010\Projects\MIDTERMEXAM\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.pdb
+C:\Users\USER\OneDrive\Documents\문서\Visual Studio 2010\Projects\MIDTERMEXAM\MIDTERMEXAM\bin\Debug\MIDTERMEXAM.exe.manifest
+C:\Users\USER\OneDrive\Documents\문서\Visual Studio 2010\Projects\MIDTERMEXAM\MIDTERMEXAM\bin\Debug\MIDTERMEXAM.application
+C:\Users\USER\OneDrive\Documents\문서\Visual Studio 2010\Projects\MIDTERMEXAM\MIDTERMEXAM\bin\Debug\MIDTERMEXAM.exe
+C:\Users\USER\OneDrive\Documents\문서\Visual Studio 2010\Projects\MIDTERMEXAM\MIDTERMEXAM\bin\Debug\MIDTERMEXAM.pdb
+C:\Users\USER\OneDrive\Documents\문서\Visual Studio 2010\Projects\MIDTERMEXAM\MIDTERMEXAM\bin\Debug\MIDTERMEXAM.xml
+C:\Users\USER\OneDrive\Documents\문서\Visual Studio 2010\Projects\MIDTERMEXAM\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.vbprojResolveAssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\문서\Visual Studio 2010\Projects\MIDTERMEXAM\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.frmItem.resources
+C:\Users\USER\OneDrive\Documents\문서\Visual Studio 2010\Projects\MIDTERMEXAM\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.frmAddCustomer.resources
+C:\Users\USER\OneDrive\Documents\문서\Visual Studio 2010\Projects\MIDTERMEXAM\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.frmCash.resources
+C:\Users\USER\OneDrive\Documents\문서\Visual Studio 2010\Projects\MIDTERMEXAM\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.frmInstallment.resources
+C:\Users\USER\OneDrive\Documents\문서\Visual Studio 2010\Projects\MIDTERMEXAM\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.frmSelect.resources
+C:\Users\USER\OneDrive\Documents\문서\Visual Studio 2010\Projects\MIDTERMEXAM\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.Resources.resources
+C:\Users\USER\OneDrive\Documents\문서\Visual Studio 2010\Projects\MIDTERMEXAM\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.vbproj.GenerateResource.Cache
+C:\Users\USER\OneDrive\Documents\문서\Visual Studio 2010\Projects\MIDTERMEXAM\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.exe.manifest
+C:\Users\USER\OneDrive\Documents\문서\Visual Studio 2010\Projects\MIDTERMEXAM\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.application
+D:\Github Files\MIDTERMEXAM\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.exe
+D:\Github Files\MIDTERMEXAM\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.xml
+D:\Github Files\MIDTERMEXAM\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.pdb
+D:\Github Files\MIDTERMEXAM\MIDTERMEXAM\bin\Debug\MIDTERMEXAM.exe.manifest
+D:\Github Files\MIDTERMEXAM\MIDTERMEXAM\bin\Debug\MIDTERMEXAM.application
+D:\Github Files\MIDTERMEXAM\MIDTERMEXAM\bin\Debug\MIDTERMEXAM.exe
+D:\Github Files\MIDTERMEXAM\MIDTERMEXAM\bin\Debug\MIDTERMEXAM.pdb
+D:\Github Files\MIDTERMEXAM\MIDTERMEXAM\bin\Debug\MIDTERMEXAM.xml
+D:\Github Files\MIDTERMEXAM\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.vbprojResolveAssemblyReference.cache
+D:\Github Files\MIDTERMEXAM\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.frmItem.resources
+D:\Github Files\MIDTERMEXAM\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.frmAddCustomer.resources
+D:\Github Files\MIDTERMEXAM\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.frmCash.resources
+D:\Github Files\MIDTERMEXAM\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.frmInstallment.resources
+D:\Github Files\MIDTERMEXAM\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.frmSelect.resources
+D:\Github Files\MIDTERMEXAM\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.Resources.resources
+D:\Github Files\MIDTERMEXAM\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.vbproj.GenerateResource.Cache
+D:\Github Files\MIDTERMEXAM\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.exe.manifest
+D:\Github Files\MIDTERMEXAM\MIDTERMEXAM\obj\x86\Debug\MIDTERMEXAM.application

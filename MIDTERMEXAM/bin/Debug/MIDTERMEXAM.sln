@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "MIDTERMEXAM", "MIDTERMEXAM.exe", "{0E78A705-A118-41EB-8CFE-69C276C954B7}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Users\carre\OneDrive\Documents\Visual Studio 2010\Projects\prelim\HRMProject\MIDTERM\MIDTERMEXAM\MIDTERMEXAM\bin\Debug\MIDTERMEXAM.exe
+		RemoteMachine = ASHE-LAPTOP0911
+		StartingDirectory = C:\Users\carre\OneDrive\Documents\Visual Studio 2010\Projects\prelim\HRMProject\MIDTERM\MIDTERMEXAM\MIDTERMEXAM\bin\Debug
+		Environment = Default
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E78A705-A118-41EB-8CFE-69C276C954B7}.Debug|x86.ActiveCfg = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
